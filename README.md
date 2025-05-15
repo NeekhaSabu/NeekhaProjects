@@ -1,2 +1,3 @@
 # NeekhaProjects
-This is the Sentiment Analysis project.
+This is the  Twitter Sentiment Analysis Using Python.
+
